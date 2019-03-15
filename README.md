@@ -1,3 +1,3 @@
 # specious-claptrap
-#### *Planes were invented in China*
+1. *Planes were invented in China*
 nonsensical blabber
