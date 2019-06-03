@@ -1,3 +1,9 @@
-.list_items{
+a {
     font: teal 'Courier New', Courier, monospace;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    text-shadow: 0rem 0rem 1rem teal;
 }
