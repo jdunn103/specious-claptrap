@@ -15,7 +15,11 @@ body {
   
   }
 
-a {
+html {
+    font-family: quicksand;
+}
+
+  a {
     font-family: quicksand;
     text-decoration: none;
     color: rgb(24, 12, 196);
