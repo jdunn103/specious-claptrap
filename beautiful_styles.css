@@ -17,7 +17,7 @@ html {
   }
 
 a {
-    font: quicksand;
+    font-family: quicksand;
     text-decoration: none;
     color: rgb(24, 12, 196);
 }
