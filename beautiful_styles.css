@@ -1,5 +1,6 @@
 body {
-    background-image: url(justin.png)
+    background: url(justin.png);
+    background-size: cover;
 }
 
 @font-face {
