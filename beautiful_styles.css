@@ -1,3 +1,6 @@
+html {
+    background-image: url(justin.png)
+}
 a {
     font: 'Courier New', Courier, monospace;
     text-decoration: none;
