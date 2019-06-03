@@ -7,3 +7,7 @@ a:hover {
     color: red;
     text-shadow: 0rem 0rem 1rem teal;
 }
+
+li {
+    color: red;
+}
