@@ -1,4 +1,4 @@
-html {
+body {
     background-image: url(justin.png)
 }
 
@@ -11,7 +11,6 @@ html {
          url('quicksand-regular-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
-    color: rgb(92, 129, 127);
     font-weight: lighter;
   
   }
