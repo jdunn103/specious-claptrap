@@ -1,10 +1,25 @@
 html {
     background-image: url(justin.png)
 }
+
+@font-face {
+    font-family: 'quicksand';
+    src: url('quicksand-regular-webfont.eot');
+    src: url('quicksand-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('quicksand-regular-webfont.woff2') format('woff2'),
+         url('quicksand-regular-webfont.woff') format('woff'),
+         url('quicksand-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(92, 129, 127);
+    font-weight: lighter;
+  
+  }
+
 a {
-    font: 'Courier New', Courier, monospace;
+    font: quicksand;
     text-decoration: none;
-    color: teal;
+    color: rgb(24, 12, 196);
 }
 
 a:hover {
