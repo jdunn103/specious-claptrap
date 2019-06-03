@@ -1,6 +1,7 @@
 a {
-    font: teal 'Courier New', Courier, monospace;
+    font: 'Courier New', Courier, monospace;
     text-decoration: none;
+    color: teal;
 }
 
 a:hover {
