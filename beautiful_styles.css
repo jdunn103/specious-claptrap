@@ -28,5 +28,7 @@ html {
 
 a:hover {
     color: red;
-    text-shadow: 0rem 0rem 1rem teal;
+    text-shadow: 0rem 0rem 2rem black;
+    /* border: 1px whitesmoke;
+    background-color: white(0, 0, 0); */
 }
