@@ -1,6 +1,6 @@
 body {
-    background-image: url(justin.png);
-    background-size: cover;
+  background-image: linear-gradient(red, orange, yellow, green, cyan, blue, purple);
+  /* background-image: url("bible/justin.png"); */
 }
 
 @font-face {
