@@ -25,10 +25,7 @@ html {
     font-family: quicksand;
     text-decoration: none;
     color: chartreuse;
-
-a:hover {
-    color: red;
-    text-shadow: 0rem 0rem 2rem black;
-    /* border: 1px whitesmoke;
-    background-color: white(0, 0, 0); */
+  }
+    a:hover {
+    font-size: 1.2rem;
 }
