@@ -1,5 +1,6 @@
 body {
-  background-image: linear-gradient(red, orange, yellow, green, cyan, blue, purple);
+  background-image: linear-gradient(to left, red, orange, yellow, green, cyan, blue, purple);
+  color: fuchsia;
   /* background-image: url("bible/justin.png"); */
 }
 
@@ -23,8 +24,7 @@ html {
   a {
     font-family: quicksand;
     text-decoration: none;
-    color: rgb(24, 12, 196);
-}
+    color: chartreuse;
 
 a:hover {
     color: red;
