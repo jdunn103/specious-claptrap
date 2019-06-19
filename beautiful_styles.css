@@ -27,5 +27,5 @@ html {
     color: chartreuse;
   }
     a:hover {
-    font-size: 1.2rem;
+    color: rgb(255, 0, 127);
 }
